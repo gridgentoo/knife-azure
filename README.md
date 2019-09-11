@@ -13,3 +13,6 @@ https://docs.microsoft.com/ru-ru/azure/virtual-machines/windows/chef-automation
 https://docs.microsoft.com/ru-ru/azure/virtual-machines/extensions/chef
 
 Chef Software — это платформа автоматизации DevOps для Linux и Windows, которая позволяет управлять конфигурациями как физического, так и виртуального серверов. Chef — это расширение, которое включает среду Chef на виртуальной машине.
+
+# Knife Azure
+https://www.rubydoc.info/gems/knife-azure/1.6.0
