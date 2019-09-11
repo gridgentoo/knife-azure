@@ -16,3 +16,6 @@ Chef Software — это платформа автоматизации DevOps д
 
 # Knife Azure
 https://www.rubydoc.info/gems/knife-azure/1.6.0
+
+# Оригинальный репозиторий
+https://github.com/chef/knife-azure
